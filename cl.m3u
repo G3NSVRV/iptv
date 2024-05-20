@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="General",13C (1080p)
+#EXTINF:-1 tvg-id="13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Logotipo_de_Canal_13_Chile_%282010–2018%29.svg" group-title="FTA",13
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/369b42ba-160f-42ef-a76d-6f7c881ec98e:SCL/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
+#EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="General",13 Cultura (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="Entertainment",13 Entretención (720p)
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
@@ -433,7 +435,7 @@ https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele2WebRetiro.cl" tvg-logo="https://i.imgur.com/b9CN0pZ.png" group-title="Undefined",Tele 2 Web (Retiro) (720p) [Not 24/7]
 https://inliveserver.com:1936/11516/11516/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecanal.cl" tvg-logo="https://i.imgur.com/3g6SbSt.png" group-title="Undefined",Telecanal (480p)
+#EXTINF:-1 tvg-id="Telecanal.cl" tvg-logo="https://i.imgur.com/3g6SbSt.png" group-title="FTA",Telecanal (480p)
 https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleCauquenes.cl" tvg-logo="https://i.imgur.com/cNYDqhp.png" group-title="News",TeleCauquenes (720p)
 https://vdo.panelstreaming.live:3401/hybrid/play.m3u8
